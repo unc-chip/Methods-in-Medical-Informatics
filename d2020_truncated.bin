@@ -1,0 +1,113 @@
+*NEWRECORD
+RECTYPE = D
+MH = Digital Divide
+AQ = HI TD
+ENTRY = Divide, Digital
+MN = L01.143.230.500
+MH_TH = NLM (2016)
+ST = T068
+MS = Gap between individuals, households, businesses and geographic areas at different socioeconomic levels with regard to both their opportunities to access electronic  information and communication technologies (ICTs). Their use of the Internet for a wide variety of activities, reflects various differences among and within countries.
+PM = 2016
+HN = 2016
+MR = 20150706
+DA = 20150707
+DC = 1
+DX = 20160101
+UI = D066310
+
+*NEWRECORD
+RECTYPE = D
+MH = Ventral Striatum
+AQ = AB AH BS CH CY DE DG EM EN GD IM IN ME MI PA PH PP PS RE SU TR UL VI
+ENTRY = Striatum, Ventral
+MN = A08.186.211.200.885.287.249.487.775
+MH_TH = NLM (2000)
+ST = T023
+MS = A composite structure of the TELENCEPHALON that is defined by connectivity. It includes the NUCLEUS ACCUMBENS; the ISLANDS OF CALLEJA; and parts of the CAUDATE NUCLEUS; the PUTAMEN; and the SUBSTANTIA INNOMINATA.
+PM = 2015; see BASAL FOREBRAIN 2000-2014
+HN = 2015; use BASAL FOREBRAIN 2000-2014
+MR = 20180630
+DA = 20140626
+DC = 1
+DX = 20150101
+UI = D066328
+
+*NEWRECORD
+RECTYPE = D
+MH = Protein Aggregates
+AQ = DE ES GE IM PH RE
+ENTRY = Aggregates, Protein
+MN = D05.875
+FX = Protein Aggregation, Pathological
+MH_TH = NLM (2015)
+ST = T116
+RN = 0
+MS = Any mixture of secondary, tertiary, or quaternary protein molecules which appear as clumps in or outside the cell.
+PM = 2015
+HN = 2015
+MR = 20140612
+DA = 20140626
+DC = 1
+DX = 20150101
+UI = D066329
+
+*NEWRECORD
+RECTYPE = D
+MH = Printing, Three-Dimensional
+AQ = CL EC ES HI IS LJ SD SN ST TD
+ENTRY = 3-D Printing|T073|ABX|EQV|NLM (2015)|140611|abcdef
+ENTRY = 3-Dimensional Printing|T073|NON|EQV|NLM (2015)|140625|abcdef
+ENTRY = 3D Printing|T073|ABX|EQV|NLM (2015)|140611|abcdef
+ENTRY = Three-Dimensional Printing|T073|NON|EQV|NLM (2015)|140611|abcdef
+ENTRY = 3 D Printing
+ENTRY = 3 Dimensional Printing
+ENTRY = 3-D Printings
+ENTRY = 3-Dimensional Printings
+ENTRY = 3D Printings
+ENTRY = Printing, 3-D
+ENTRY = Printing, 3-Dimensional
+ENTRY = Printing, 3D
+ENTRY = Printing, Three Dimensional
+ENTRY = Printings, 3-D
+ENTRY = Printings, 3-Dimensional
+ENTRY = Printings, 3D
+ENTRY = Printings, Three-Dimensional
+ENTRY = Three Dimensional Printing
+ENTRY = Three-Dimensional Printings
+MN = J01.897.564
+MN = L01.224.108.150.500
+MN = L01.296.110.150.500
+MH_TH = NLM (2015)
+ST = T073
+MS = Process for making, building or constructing a physical object from a three-dimensional digital model by laying down many successive thin layers of building material.
+PM = 2015
+HN = 2015
+MR = 20171010
+DA = 20140626
+DC = 1
+DX = 20150101
+UI = D066330
+
+*NEWRECORD
+RECTYPE = D
+MH = Laser-Evoked Potentials
+AQ = DE GE IM PH RE
+ENTRY = Laser Evoked Potentials
+ENTRY = Laser-Evoked Potential
+ENTRY = Potential, Laser-Evoked
+ENTRY = Potentials, Laser-Evoked
+MN = G07.265.216.500.400.500
+MN = G11.561.200.500.400.500
+MH_TH = NLM (2015)
+ST = T042
+ST = T060
+PI = Evoked Potentials (1991-2014)
+MS = Somatosensory evoked potentials generated through the application of HEAT to the SKIN with a LASER. They are often used clinically to assess the function of the central nociceptive system and in diagnosing NOCICEPTIVE PAIN.
+PM = 2015
+HN = 2015
+MR = 20160120
+DA = 20140626
+DC = 1
+DX = 20150101
+UI = D066331
+
