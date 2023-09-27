@@ -113,7 +113,8 @@ RUN echo "c.NotebookApp.password_required = False" >> /home/notebook_user/.jupyt
 RUN echo "c.NotebookApp.port = 8888" >> /home/notebook_user/.jupyter/jupyter_notebook_config.py
 RUN echo "c.NotebookApp.token = ''" >> /home/notebook_user/.jupyter/jupyter_notebook_config.py
 RUN echo "c.NotebookApp.notebook_dir = '/home/notebook_user/Methods-in-Medical-Informatics-master'" >> /home/notebook_user/.jupyter/jupyter_notebook_config.py
-RUN echo "c.NotebookApp.password = 'sha1:b39ab64d70ae:f28f1468a2f5ceca16cdfac6628864746dec68b1'"  >> /home/notebook_user/.jupyter/jupyter_notebook_config.py
+#RUN echo "c.NotebookApp.password = 'sha1:b39ab64d70ae:f28f1468a2f5ceca16cdfac6628864746dec68b1'"  >> /home/notebook_user/.jupyter/jupyter_notebook_config.py
+RUN echo "c.NotebookApp.password = 'sha1:77fbdcb0f819:eb223f9488d9661fc65788cffe51688c05273040'"  >> /home/notebook_user/.jupyter/jupyter_notebook_config.py
 RUN echo "c.NotebookApp.allow_password_change = False"
 #USER root
 RUN jupyter contrib nbextension install
